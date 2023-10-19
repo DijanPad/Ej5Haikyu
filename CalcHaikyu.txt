@@ -1,0 +1,31 @@
+type,name,country,errors,aces,saques,efectividad,recibos,fintas,pases,ataques,bloqueos,bloquen't,
+A,Oliver Smith,USA,0,20,80,55.0,,,,10,5,8
+L,Emma Johnson,Spain,8,15,70,41.0,12,,,,,
+O,Liam Brown,France,4,18,75,39.0,,,,15,7,12
+P,Charlotte Davis,Argentina,6,22,90,57.0,,8,4,,,
+A,Noah Wilson,Italy,7,17,72,-8.0,,,,9,3,16
+L,Sophia Lee,Brazil,9,13,65,30.0,11,,,,,
+O,Olivia Martinez,Germany,3,19,78,24.0,,,,14,9,20
+P,Elijah Rodriguez,Mexico,5,21,85,47.0,,7,1,,,
+A,Mia White,Canada,4,16,70,-8.0,,,,10,5,24
+L,James Harris,India,8,12,68,37.0,12,,,,,
+O,Amelia Clark,Australia,2,18,77,8.0,,,,15,7,28
+P,Ethan Lewis,England,7,20,82,50.0,,9,3,,,
+A,Harper Turner,Japan,6,14,76,-15.0,,,,11,8,32
+L,Benjamin Moore,South Korea,9,15,71,42.0,14,,,,,
+O,Ava Walker,Sweden,4,20,83,-16.0,,,,8,9,36
+P,William Hall,Netherlands,5,19,79,76.0,,12,4,,,
+A,Abigail Young,Russia,3,21,88,-15.0,,,,13,6,40
+L,Samuel King,China,7,16,73,60.0,16,,,,,
+O,Elizabeth Baker,South Africa,1,23,94,-18.0,,,,10,8,44
+P,Alexander Mitchell,New Zealand,6,15,69,61.0,,9,5,,,
+A,Sofia Green,Ireland,8,20,86,-34.0,,,,11,4,48
+L,Michael Carter,Chile,9,14,67,34.0,12,,,,,
+O,Grace Anderson,Peru,2,22,87,-19.0,,,,14,7,52
+P,Daniel Wright,Singapore,5,18,81,76.0,,15,2,,,
+A,Lily Evans,Malaysia,4,17,74,-40.0,,,,8,6,56
+L,Matthew Murphy,Thailand,7,13,66,58.0,16,,,,,
+O,Emily Turner,Portugal,3,21,84,-30.0,,,,13,5,60
+P,Joseph Adams,Denmark,6,19,80,65.0,,12,3,,,
+A,Chloe Scott,Norway,4,20,85,-33.0,,,,11,8,64
+L,Henry Robinson,Finland,9,17,72,28.0,10,,,,,

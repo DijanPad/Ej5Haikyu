@@ -1,3 +1,10 @@
+/** Programacion orientada a objetos -  seccion 10
+ * Luis Francisco Padilla Juárez - 23663
+ * E5, Polimorfismo via herencia
+ * 18-10-2323
+ * @return Player
+ */
+
 public class Player {
     
     private String name;
@@ -7,13 +14,12 @@ public class Player {
     private int saques;
     private float efectividad;
 
-    public Player(String name, String country, int errores, int aces, int saques, float efectividad) {
+    public Player(String name, String country, int errores, int aces, int saques) {
         this.name = name;
         this.country = country;
         this.errores = errores;
         this.aces = aces;
         this.saques = saques;
-        this.efectividad = efectividad;
     }
 
 
@@ -54,6 +60,11 @@ public class Player {
         this.efectividad = efectividad;
     }
 
-    
+    @Override
+    public String toString() {
+        return " | Nombre: " + this.name + " | Pais: " + this.country ;
+    }
+
+
 
 }

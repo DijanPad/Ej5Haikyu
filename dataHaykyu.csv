@@ -1,0 +1,31 @@
+type,name,country,errores,aces,saques,extra1,extra2,extra3
+A,Oliver Smith,USA,0,20,80,10,5,8
+L,Emma Johnson,Spain,8,15,70,12,6,10
+O,Liam Brown,France,4,18,75,15,7,12
+P,Charlotte Davis,Argentina,6,22,90,8,4,14
+A,Noah Wilson,Italy,7,17,72,9,3,16
+L,Sophia Lee,Brazil,9,13,65,11,2,18
+O,Olivia Martinez,Germany,3,19,78,14,9,20
+P,Elijah Rodriguez,Mexico,5,21,85,7,1,22
+A,Mia White,Canada,4,16,70,10,5,24
+L,James Harris,India,8,12,68,12,6,26
+O,Amelia Clark,Australia,2,18,77,15,7,28
+P,Ethan Lewis,England,7,20,82,9,3,30
+A,Harper Turner,Japan,6,14,76,11,8,32
+L,Benjamin Moore,South Korea,9,15,71,14,7,34
+O,Ava Walker,Sweden,4,20,83,8,9,36
+P,William Hall,Netherlands,5,19,79,12,4,38
+A,Abigail Young,Russia,3,21,88,13,6,40
+L,Samuel King,China,7,16,73,16,2,42
+O,Elizabeth Baker,South Africa,1,23,94,10,8,44
+P,Alexander Mitchell,New Zealand,6,15,69,9,5,46
+A,Sofia Green,Ireland,8,20,86,11,4,48
+L,Michael Carter,Chile,9,14,67,12,3,50
+O,Grace Anderson,Peru,2,22,87,14,7,52
+P,Daniel Wright,Singapore,5,18,81,15,2,54
+A,Lily Evans,Malaysia,4,17,74,8,6,56
+L,Matthew Murphy,Thailand,7,13,66,16,9,58
+O,Emily Turner,Portugal,3,21,84,13,5,60
+P,Joseph Adams,Denmark,6,19,80,12,3,62
+A,Chloe Scott,Norway,4,20,85,11,8,64
+L,Henry Robinson,Finland,9,17,72,10,2,66
